@@ -1,0 +1,11 @@
+game_number,Event,Site,Date,Round,White,Black,Result,WhiteElo,BlackElo,TimeControl,Termination,clock_markers,evaluation_markers
+1,Rated Bullet game,https://lichess.org/bcRJNu4b,2026.09.01,-,Mycoba,Sentenced222,0-1,1058,1029,120+1,Normal,86,0
+2,Rated Bullet game,https://lichess.org/vca9O6Eb,2026.09.01,-,VANDO1975,JollyJumper16,1-0,896,943,120+1,Time forfeit,39,0
+3,Rated Bullet game,https://lichess.org/GuMnThlQ,2026.09.01,-,LycanthropicLichen,bco33,0-1,1542,1554,120+1,Time forfeit,44,0
+4,Rated Bullet game,https://lichess.org/mQMQpBqI,2026.09.01,-,deeperbluek,larryswanson,0-1,852,880,120+1,Time forfeit,42,42
+5,Rated Bullet game,https://lichess.org/iaY9JqLW,2026.09.01,-,Skyylxne,leminlim3,0-1,1149,1216,120+1,Time forfeit,44,0
+6,Rated Bullet game,https://lichess.org/MwreCmrB,2026.09.01,-,Russichess,jesus38h,1-0,1177,1177,120+1,Time forfeit,61,0
+7,Rated Bullet game,https://lichess.org/FhsVSGKF,2026.09.01,-,davymax3,taguMite,1-0,1811,1786,120+1,Normal,31,31
+8,Rated Bullet game,https://lichess.org/feGehxJX,2026.09.01,-,Khaled2022,andreabianchi,1-0,1967,2019,120+1,Normal,35,0
+9,Rated Bullet game,https://lichess.org/SJa7FLqb,2026.09.01,-,Snobitz,brbahaa,0-1,1085,1129,120+1,Time forfeit,50,0
+10,Rated Bullet game,https://lichess.org/kVaJa38B,2026.09.01,-,uvethokli,Taslaq123,1-0,1454,1406,120+1,Normal,55,0
